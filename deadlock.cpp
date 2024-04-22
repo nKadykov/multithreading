@@ -1,7 +1,6 @@
 #include <iostream>
 #include <mutex>
 #include <thread>
-#include <mutex>
 
 int main() {
     std::mutex m1;
