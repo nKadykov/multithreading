@@ -1,0 +1,5 @@
+/.vscode
+/atomic.exe
+/deadlock.exe
+/mutex.exe
+/thread.exe
